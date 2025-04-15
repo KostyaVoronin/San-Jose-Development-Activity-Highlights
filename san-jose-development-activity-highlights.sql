@@ -244,7 +244,7 @@ Result:
 
 
 -- MAJOR RESIDENTIAL PROJECTS
--- A list of the biggest residential units in each district with unit counts and share of the overall pipelined units in each district.
+-- A list of the biggest residential projects in each district with unit counts and share of the overall pipelined units in each district.
 
 SELECT
   *
